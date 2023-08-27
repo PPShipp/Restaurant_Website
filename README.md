@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# See Overview Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://ppship-restaurant.netlify.app/
 
 ## Available Scripts
 
